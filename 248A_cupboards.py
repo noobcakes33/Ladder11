@@ -1,3 +1,5 @@
+# TODO: fix error on test case 2
+
 n = int(input())
 l = []
 r = []
